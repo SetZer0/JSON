@@ -1,0 +1,19 @@
+{
+	"FavFilms":[
+		"V - means Vendetta",
+		"Mulan",
+		"Knives out"
+	],
+	"FavTVShow":[
+		"Misfits",
+		"Witcher",
+		"Game of thrones"
+	],
+	"FavFood":[
+		"Borsch",
+		"Plov",
+		"Pizza"
+	],
+	"FavSeason":"Summer",
+	"CountryForTravel":"Japan"
+}
