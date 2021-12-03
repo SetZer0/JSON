@@ -2,7 +2,8 @@
 	"person":{
 		"name":"Dmitry",
 		"surname":"Krylov",
-		"middle_name":"Mikhailovich"
+		"middle_name":"Mikhailovich",
+		"age":"30"
 	},
 		"pet":{
 			"name":"Chernysh"
