@@ -1,0 +1,11 @@
+{
+	"person":{
+		"name":"Dmitry",
+		"surname":"Krylov",
+		"middle_name":"Mikhailovich"
+	},
+		"pet":{
+			"name":"Chernysh"
+		},
+		"salaryestimated":"700$"
+}
